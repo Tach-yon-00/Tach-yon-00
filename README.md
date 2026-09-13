@@ -17,9 +17,9 @@
 ## 🧑‍🚀 About Me
 
 ```yaml
-name: Tushar
-role: 2nd Year ECE Student @ SCEM, Bangalore
-location: Bangalore, India
+name: Tushar Karthik S N
+role: 2nd Year ECE Student @ SCEM, Mangaluru
+location: Mangaluru, India
 focus:
   hardware: [ESP32, Arduino, Circuit Design, BCI/EEG]
   software: [React Native, Next.js, Python]
