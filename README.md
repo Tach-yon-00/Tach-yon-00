@@ -1,89 +1,99 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=220&section=header&text=Hey,%20I'm%20Tushar%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20Full-Stack%20Dev%20%7C%20Circuit%20Tinkerer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&text=TUSHAR.EXE&fontSize=55&fontColor=39FF14&fontAlignY=50&fontFamily=Press+Start+2P&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+with+ESP32+%26+Arduino+%E2%9A%A1;React+Native+%2B+Next.js+Developer+%F0%9F%92%BB;Signal+Acquisition+%26+Circuit+Design+%F0%9F%94%A7;Learning+by+Building%2C+Breaking%2C+Fixing+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://api.dicebear.com/7.x/pixel-art/svg?seed=Tushar&backgroundColor=1a1a2e" width="120" style="image-rendering: pixelated; border: 4px solid #39FF14; border-radius: 8px;"/>
 
-<br/>
+<br/><br/>
 
-<a href="https://x.com/mega_ram23"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/tushar-karthik-86a099310/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:tusharnarayan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FF2E97&center=true&vCenter=true&width=650&lines=INSERT+COIN+TO+CONTINUE...;LOADING+ECE+STUDENT.exe;EMBEDDED+%2B+FULLSTACK+DEV;PRESS+START+TO+COLLABORATE" alt="Typing SVG" />
+
+<br/><br/>
+
+![Static Badge](https://img.shields.io/badge/PLAYER-Tushar-39FF14?style=for-the-badge&labelColor=0f0c29&logo=nintendogamecube&logoColor=39FF14)
+![Static Badge](https://img.shields.io/badge/LEVEL-2nd_Year_ECE-FF2E97?style=for-the-badge&labelColor=0f0c29)
+![Static Badge](https://img.shields.io/badge/HP-∞-00E5FF?style=for-the-badge&labelColor=0f0c29)
 
 </div>
 
 <br/>
 
-## 🧑‍🚀 About Me
+```
+╔══════════════════════════════════════════════════════╗
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+║   > SELECT PLAYER..... TUSHAR                         ║
+║   > CLASS............. ECE STUDENT                    ║
+║   > BASE............... BANGALORE, IN                 ║
+║   > SPECIAL MOVES...... ESP32 // REACT NATIVE // PY   ║
+║   > STATUS............. ONLINE                        ║
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+╚══════════════════════════════════════════════════════╝
+```
 
-```yaml
-name: Tushar Karthik S N
-role: 2nd Year ECE Student @ SCEM, Mangaluru
-location: Mangaluru, India
-focus:
-  hardware: [ESP32, Arduino, Circuit Design, BCI/EEG]
-  software: [React Native, Next.js, Python]
-philosophy: "Build it, break it, observe it, fix it — repeat."
-currently_exploring: "Signal acquisition hardware & decentralized systems"
+<div align="center">
+
+<a href="https://x.com/mega_ram23"><img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=39FF14&labelColor=000000"/></a>
+<a href="https://www.linkedin.com/in/tushar-karthik-86a099310/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=000000"/></a>
+<a href="mailto:tusharnarayan23@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF2E97&labelColor=000000"/></a>
+
+</div>
+
+<br/>
+
+## `>> INVENTORY.SYS`
+
+<div align="center">
+
+**⚔️ HARDWARE WEAPONS**
+
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=39FF14)
+![Arduino](https://img.shields.io/badge/ARDUINO-000000?style=for-the-badge&logo=arduino&logoColor=00E5FF)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FF2E97)
+
+**🛡️ SOFTWARE ARMOR**
+
+![React Native](https://img.shields.io/badge/REACT_NATIVE-000000?style=for-the-badge&logo=react&logoColor=39FF14)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=00E5FF)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FF2E97)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=39FF14)
+
+**🧰 UTILITY ITEMS**
+
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=00E5FF)
+![Linux](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=FF2E97)
+![VS Code](https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=39FF14)
+
+</div>
+
+<br/>
+
+## `>> HIGH_SCORES.DAT`
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=outrun&hide_border=true&bg_color=0f0c29" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=outrun&hide_border=true&bg_color=0f0c29" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=outrun&hide_border=true&background=0f0c29" />
+</div>
+
+<br/>
+
+## `>> QUEST_LOG.TXT`
+
+```
+[✔] SIH HONKING     - Detect & prevent excessive vehicle honking
+[✔] YOCHAN          - React Native expense tracker (India market)
+[✔] FLICKER         - Push-to-talk walkie-talkie web app (Next.js)
+[✔] BCI / EEG       - DIY brain signal acquisition hardware
+[✔] ECOPYRO         - Decentralized wet-waste processing system
+[ ] NEXT QUEST      - ??? (loading...)
 ```
 
 <br/>
 
-## ⚙️ Tech Arsenal
-
-<div align="center">
-
-**Embedded & Hardware**
-
-<img src="https://skillicons.dev/icons?i=arduino,cpp,c&theme=dark" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-
-**Frontend & Mobile**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwind&theme=dark" />
-
-**Backend & Languages**
-
-<img src="https://skillicons.dev/icons?i=python,nodejs&theme=dark" />
-
-**Tools & Environment**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" />
-
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
-</div>
-
-<br/>
-
-## 🚀 Featured Builds
-
-<div align="center">
-
-| Project | Description |
-|---|---|
-| 🔊 **Prevention of Excessive Honking** | SIH hackathon project — detects & discourages unnecessary vehicle honking |
-| 💰 **Expense Tracker (Yochan)** | React Native expense tracker tailored for the Indian market |
-| 📻 **FLICKER** | Next.js walkie-talkie web app with push-to-talk & channels |
-| 🧠 **DIY BCI/EEG** | Signal acquisition hardware for brain-computer interface experiments |
-| ♻️ **ECOPYRO** | Decentralized wet-waste processing system for urban markets |
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
+## `>> WORLD_MAP.SNAKE`
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
@@ -93,8 +103,13 @@ currently_exploring: "Signal acquisition hardware & decentralized systems"
 
 <div align="center">
 
-### 💭 "The best way to learn hardware is to smell the magic smoke at least once."
+```
+┌─────────────────────────────────┐
+│   GAME OVER? NAH, JUST LEVELING  │
+│      PRESS  F5  TO CONTINUE      │
+└─────────────────────────────────┘
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
 </div>
